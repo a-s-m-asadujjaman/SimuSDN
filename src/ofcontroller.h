@@ -21,7 +21,6 @@
 #include <omnetpp.h>
 #include <fstream>
 #include "tpacket_m.h"
-#include <glpk.h>
 #include <string>
 #include <map>
 #include "ofswitch.h"
